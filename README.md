@@ -1,6 +1,6 @@
 # Augmented Reality Test
 
-This project used AR.js to 
+This project used AR.js to display an image in a location using a web broswer
 
 ## Requirements
 * Install [Node.js](https://nodejs.org/en/) 
