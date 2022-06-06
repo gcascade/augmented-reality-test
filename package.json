@@ -1,0 +1,25 @@
+{
+  "name": "augmented-reality-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server -S -C cert.pem",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcascade/augmented-reality-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcascade/augmented-reality-test/issues"
+  },
+  "homepage": "https://github.com/gcascade/augmented-reality-test#readme",
+  "dependencies": {
+    "@ar-js-org/ar.js": "^3.4.0",
+    "dotenv": "^16.0.1",
+    "http-server": "^14.1.1"
+  }
+}
